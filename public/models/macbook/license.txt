@@ -1,0 +1,11 @@
+Model Information:
+* title:	MacBook
+* source:	https://sketchfab.com/3d-models/macbook-07f012fbd3bb4c37a1b9ed08533ee403
+* author:	Nicholas-3D (https://sketchfab.com/Nicholas01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MacBook" (https://sketchfab.com/3d-models/macbook-07f012fbd3bb4c37a1b9ed08533ee403) by Nicholas-3D (https://sketchfab.com/Nicholas01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
