@@ -19,7 +19,7 @@ const DemoComputer=(props)=> {
   const txt=useVideoTexture(props.texture?props.texture:'/textures/project/project1.mp4')
   useEffect(()=>{
     if(txt){
-        txt.flipY=false
+        txt.flipY=true
     }
   },[txt])
   useGSAP(()=>{
