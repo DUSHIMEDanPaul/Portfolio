@@ -24,32 +24,32 @@ export const navLinks = [
 export const clientReviews = [
   {
     id: 1,
-    name: 'Emily Johnson',
-    position: 'Marketing Director at GreenLeaf',
+    name: 'Fidele NDIHOKUBWAYO',
+    position: ' CEO & founder at Kigali PrintHouse',
     img: 'assets/review1.png',
     review:
       `Working with Dan was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.`,
   },
   {
     id: 2,
-    name: 'Mark Rogers',
-    position: 'Founder of TechGear Shop',
+    name: 'Olivier MAJAMBERE',
+    position: 'Founder & CEO at BIO-AMAK',
     img: 'assets/review2.png',
     review:
       `Dan's expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He's a true professional! Fantastic work.`,
   },
   {
     id: 3,
-    name: 'John Dohsas',
-    position: 'Project Manager at UrbanTech ',
+    name: 'Samuel MUGISHA',
+    position: 'Project Manager at Inzira accelerator program ',
     img: 'assets/review3.png',
     review:
       `I can't say enough good things about Dan. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.`,
   },
   {
     id: 4,
-    name: 'Ether Smith',
-    position: 'CEO of BrightStar Enterprises',
+    name: 'Jean De Dieu NIYAREMYE',
+    position: 'CEO of Act for the Good NGO',
     img: 'assets/review4.png',
     review:
       `Dan was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.`,
