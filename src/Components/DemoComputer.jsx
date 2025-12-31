@@ -71,9 +71,9 @@ const DemoComputer=(props)=> {
                     name="screen_glass_screen_0"
                     castShadow
                     receiveShadow
-                    geometry={nodes.screen_glass_screen_0.geometry}
-                    material={materials.screen}
-                  />
+                    geometry={nodes.screen_glass_screen_0.geometry}>
+                    <meshBasicMaterial map={txt}/>
+                  </mesh>
                 </group>
                 <group
                   name="Box002"
