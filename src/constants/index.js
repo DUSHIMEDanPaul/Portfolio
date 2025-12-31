@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'BrewMaster is a B2B coffee marketplace. The core architecture integrates three distinct Google Gemini models to automate supply chain trust.',
     subdesc:
       'Built as a unique Software-as-a-Service app with React.js 19, Tailwind CSS, TypeScript,brewmaster is designed for optimal performance and scalability.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+    href: 'https://coffee-brewmaster.vercel.app/',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
