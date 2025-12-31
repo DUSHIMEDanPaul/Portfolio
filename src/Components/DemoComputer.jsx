@@ -7,6 +7,7 @@ Title: 3d computer  - Sketchfab Weekly - 11 Mar'23
 */
 
 import React, { useEffect, useRef } from 'react'
+import * as THREE from 'three'
 import { useGLTF, useAnimations, useVideoTexture } from '@react-three/drei'
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap'; // Keep gsap itself separate
@@ -50,7 +51,7 @@ const DemoComputer=(props)=> {
                     castShadow
                     receiveShadow
                     geometry={nodes['Monitor-A-_computer_0'].geometry}>
-                    <meshBasicMaterial map={txt}/>
+                    <meshBasicMaterial map={txt} side={THREE.BackSide}/>
                   </mesh>
                 </group>
                 <group
