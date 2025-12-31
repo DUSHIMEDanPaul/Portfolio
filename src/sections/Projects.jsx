@@ -63,7 +63,7 @@ setSelectedProjectIndex((prevIndex)=>{
     <directionalLight position={[10,10,5]}/>
     <Center>
         <Suspense fallback={<CanvasLoader/>}>
-<group scale={1.2} position={[0,0,0]} rotation={[0,-0.1,0]}>
+<group scale={1.2} position={[0,-0.5,0]} rotation={[0,-0.1,0]}>
 <DemoComputer texture={currentProject.texture}/>
 </group>
         </Suspense>
