@@ -19,7 +19,7 @@ const DemoComputer=(props)=> {
   const txt=useVideoTexture(props.texture?props.texture:'/textures/project/project1.mp4')
   useEffect(()=>{
     if(txt){
-        txt.flipY=true
+        txt.flipY=false
     }
   },[txt])
   useGSAP(()=>{
@@ -72,8 +72,9 @@ const DemoComputer=(props)=> {
                     castShadow
                     receiveShadow
                     geometry={nodes.screen_glass_screen_0.geometry}
-                    material={materials.screen}
-                  />
+                  >
+                  <meshBasicMaterial map={txt}/>
+                  </mesh>
                 </group>
                 <group
                   name="Box002"
