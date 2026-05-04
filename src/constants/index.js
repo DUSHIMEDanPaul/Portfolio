@@ -152,7 +152,7 @@ export const workExperiences = [
     pos: 'Teaching Assistant Of Data Structures And Algorithms',
     duration: 'September 2025 - December 2025',
     title: "Mentored 30+ students in complex topics, including Scalable Microservices and DSA; conducted weekly lab sessions and graded technical assignments.",
-    icon: '/assets/framer.svg.jng',
+    icon: '/assets/framer.svg.png',
     animation: 'victory',
   },
   {
@@ -162,7 +162,7 @@ export const workExperiences = [
     duration: 'April 2025 - Present',
     title: 'Designed and deployed the PostgreSQL database schema for a car-sharing platform, optimizing relationships for complex booking queries. Implemented RESTful API endpoints in Node.js to handle user authentication and booking logic for a projected base of 500+ users.'
 ,
-    icon: '/assets/the_gym_logo.png',
+    icon: '/assets/the_gym_logo.jpg',
     animation: 'clapping',
   },
   {
