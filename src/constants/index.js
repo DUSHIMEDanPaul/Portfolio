@@ -162,7 +162,7 @@ export const workExperiences = [
     duration: 'April 2025 - Present',
     title: 'Designed and deployed the PostgreSQL database schema for a car-sharing platform, optimizing relationships for complex booking queries. Implemented RESTful API endpoints in Node.js to handle user authentication and booking logic for a projected base of 500+ users.'
 ,
-    icon: '/assets/the_gym_log.jpg',
+    icon: '/assets/the_gym_logo.png',
     animation: 'clapping',
   },
   {
