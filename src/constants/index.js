@@ -26,7 +26,7 @@ export const clientReviews = [
     id: 1,
     name: 'Fidele NDIHOKUBWAYO',
     position: ' CEO & founder at Kigali PrintHouse',
-    img: 'assets/review1.png',
+    img: 'assets/fidele.jpg',
     review:
       `Working with Dan was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.`,
   },
@@ -34,7 +34,7 @@ export const clientReviews = [
     id: 2,
     name: 'Olivier MAJAMBERE',
     position: 'Founder & CEO at BIO-AMAK',
-    img: 'assets/review2.png',
+    img: 'assets/olivier.jpg',
     review:
       `Dan's expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He's a true professional! Fantastic work.`,
   },
@@ -42,7 +42,7 @@ export const clientReviews = [
     id: 3,
     name: 'Samuel MUGISHA',
     position: 'Project Manager at Inzira accelerator program ',
-    img: 'assets/review3.png',
+    img: 'assets/sam.jpg',
     review:
       `I can't say enough good things about Dan. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.`,
   },
@@ -50,7 +50,7 @@ export const clientReviews = [
     id: 4,
     name: 'Jean De Dieu NIYAREMYE',
     position: 'CEO of Act for the Good NGO',
-    img: 'assets/review4.png',
+    img: 'assets/jean_de_dieu.jpg',
     review:
       `Dan was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.`,
   },
@@ -152,7 +152,7 @@ export const workExperiences = [
     pos: 'Teaching Assistant Of Data Structures And Algorithms',
     duration: 'September 2025 - December 2025',
     title: "Mentored 30+ students in complex topics, including Scalable Microservices and DSA; conducted weekly lab sessions and graded technical assignments.",
-    icon: '/assets/framer.svg',
+    icon: '/assets/framer.svg.jng',
     animation: 'victory',
   },
   {
@@ -162,7 +162,7 @@ export const workExperiences = [
     duration: 'April 2025 - Present',
     title: 'Designed and deployed the PostgreSQL database schema for a car-sharing platform, optimizing relationships for complex booking queries. Implemented RESTful API endpoints in Node.js to handle user authentication and booking logic for a projected base of 500+ users.'
 ,
-    icon: '/assets/figma.svg',
+    icon: '/assets/the_gym_log.jpg',
     animation: 'clapping',
   },
   {
@@ -172,7 +172,7 @@ export const workExperiences = [
     duration: 'July 2024 - Present',
     title: 'Architected a RAG-based AI customer support agent using Next.js, LangChain, and Pinecone; improved query accuracy by 30% and reduced average resolution time from 5 minutes to 30 seconds.Engineered an AI-powered tutoring backend using TypeScript and OpenAI API, handling 50+ concurrent requests and reducing response time by 15% via Redis caching.'
 ,
-    icon: '/assets/notion.svg',
+    icon: '/assets/theheadstarter_logo.jpg',
     animation: 'salute',
   },
 ];
