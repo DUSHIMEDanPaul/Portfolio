@@ -15,6 +15,18 @@ const Navbar = () => {
             </a>
           </li>
         ))}
+        <li className='nav-li'>
+          <a
+            href='/resume.pdf'
+            target='_blank'
+            rel='noopener noreferrer'
+            download='Dan_Dushime_Resume.pdf'
+            className='nav-li_a flex items-center gap-2 text-white'
+          >
+            Resume
+            <img src='/assets/arrow-up.png' alt='download' className='w-3 h-3 rotate-180' />
+          </a>
+        </li>
       </ul>
     )
   }
